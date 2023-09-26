@@ -1,20 +1,20 @@
 .nine{
     font-size: 50px;
     text-align: center;
-
+    padding-top: 4%;
 }
-
 .tenchinh{
     text-align: center;
-    font-size: 75px;
-    margin-top: -10%;
-   
 }
 .fb{
     text-align: center;
-    font-size: 50px;
-    background-image:url() ;
-
+    font-size: 40px;
+    margin-top: -2%;
+}
+.ing{
+    text-align: center;
+    font-size: 40px;
+    margin-top: -5%;
 }
 .tong{
     background-image: url(hinh5.jpg);
@@ -27,7 +27,18 @@
 .logofb{
     text-decoration: none;
 }
+.logoing{
+    text-decoration: none;
+}
 .chaychu{
     font-size: 50px;
     
+}
+.nickname{
+    font-size: 35px;
+    margin-top: -5%;
+}
+.name{
+    margin-top: 5%;
+    font-size: 100px;
 }
