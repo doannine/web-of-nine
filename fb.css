@@ -1,0 +1,33 @@
+.nine{
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.tenchinh{
+    text-align: center;
+    font-size: 75px;
+    margin-top: -10%;
+   
+}
+.fb{
+    text-align: center;
+    font-size: 50px;
+    background-image:url() ;
+
+}
+.tong{
+    background-image: url(hinh5.jpg);
+    max-width: 960px;
+    margin: 0px auto;
+   height: auto;
+   display: block;
+   background-size: cover;
+}
+.logofb{
+    text-decoration: none;
+}
+.chaychu{
+    font-size: 50px;
+    
+}
